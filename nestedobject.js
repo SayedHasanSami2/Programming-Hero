@@ -57,3 +57,7 @@ for(let elem of entries){
     const [key, value] = elem
     console.log(key, value);
 }
+
+for(let [key, value] of entries){
+    console.log(key, value);
+}
