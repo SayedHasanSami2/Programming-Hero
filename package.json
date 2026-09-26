@@ -1,0 +1,23 @@
+{
+  "name": "programming-hero",
+  "version": "1.0.0",
+  "main": "array_of_object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayedHasanSami2/Programming-Hero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayedHasanSami2/Programming-Hero/issues"
+  },
+  "homepage": "https://github.com/SayedHasanSami2/Programming-Hero#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
